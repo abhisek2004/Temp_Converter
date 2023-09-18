@@ -1,7 +1,7 @@
 # Temp_Converter
 
 This is a Temp Converter Website
-It can convert from celsius to Fahrenhiet or Kelvin
+It can convert from Celsius to Fahrenhiet or Kelvin
 
 
 ### Live website link:   https://inquisitive-pavlova-0227df.netlify.app/
